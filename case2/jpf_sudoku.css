@@ -47,4 +47,14 @@ table.subTable td{
    border: 1px solid black;
    color: blue;
    height: 40px;
+   text-align: center;
+   vertical-align: center;
+}
+
+td.goldBox td{
+   background: rgb(228, 199, 42);
+}
+
+td.greenBox td{
+   background: rgb(203, 229, 130);
 }
